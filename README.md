@@ -1,2 +1,2 @@
 # What is this project?
-This app accesses news about a particular topic and sends them by email.
+This project fetches news from the internet using NewsAPI and sends it via email. It utilizes requests for API calls, smtplib and ssl for secure email transmission, and os for environment variable management.
